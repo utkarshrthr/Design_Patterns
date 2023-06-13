@@ -1,5 +1,6 @@
 package com.utk.app.patterns.structural.flyweight.game_trees;
 
+// intrinsic attributes
 public class Tree {
 
     private int height;
